@@ -1,9 +1,22 @@
 {
     "name": "strawberry-theme",
     "displayName": "Strawberry Theme",
-    "description": "A personal Monokai-inspired theme designed with TypeScript in mind.",
+    "description": "A few themes originally inspired by Monokai and later by the colors of berries.",
+    "logo": {
+        "file": "./strawberry.png"
+    },
     "version": "1.0.1",
-    "publisher": "Jonas Siltamäki Håkansson",
+    "license": "MIT",
+    "publisher": "sylten",
+    "author": {
+        "name" : "Jonas Siltamäki Håkansson",
+        "email" : "sylten91@gmail.com",
+        "url" : "https://jonas.uno/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sylten/strawberry-theme.git"
+    },
     "engines": {
         "vscode": "^1.14.0"
     },
