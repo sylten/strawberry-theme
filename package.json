@@ -1,11 +1,13 @@
 {
     "name": "strawberry-theme",
     "displayName": "Strawberry Theme",
-    "description": "A few themes originally inspired by Monokai and later by the colors of berries.",
-    "logo": {
-        "file": "./strawberry.png"
+    "description": "Monokai and berry inspired themes. Includes the all-around strawberry theme, the more blue Blueberry and the more red Raspberry theme.",
+    "icon": "images/strawberry.png",
+    "galleryBanner": {
+        "color": "#ed4f6f",
+        "theme": "dark"
     },
-    "version": "1.0.1",
+    "version": "1.0.3",
     "license": "MIT",
     "publisher": "sylten",
     "author": {
@@ -23,6 +25,7 @@
     "categories": [
         "Themes"
     ],
+    "keywords": ["theme", "monokai", "red", "blue"],
     "contributes": {
         "themes": [
             {
