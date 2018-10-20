@@ -1,0 +1,22 @@
+{
+    "name": "monokai-strawberry-theme",
+    "displayName": "Monokai-Strawberry Theme",
+    "description": "A personal Monokai-inspired theme designed with TypeScript in mind.",
+    "version": "1.0.1",
+    "publisher": "Jonas Siltamäki Håkansson",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monokai-Strawberry Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-strawberry-theme.json"
+            }
+        ]
+    }
+}
