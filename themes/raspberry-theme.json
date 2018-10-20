@@ -800,7 +800,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#689ff2"
+				"foreground": "#ed76c5"
 			}
 		},
 		{
@@ -813,7 +813,7 @@
 				"variable.language.super.js"
 			],
 			"settings": {
-				"foreground": "#689ff2"
+				"foreground": "#ed76c5"
 			}
 		},
 		{
@@ -823,7 +823,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#689ff2"
+				"foreground": "#ed76c5"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a4dbcc"
+				"foreground": "#eea2bb"
 			}
 		},
 		{
@@ -885,7 +885,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a4dbcc"
+				"foreground": "#eea2bb"
 			}
 		},
 		{
@@ -893,7 +893,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#a4dbcc"
+				"foreground": "#eea2bb"
 			}
 		},
 		{
@@ -904,7 +904,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a4dbcc"
+				"foreground": "#eea2bb"
 			}
 		},
 		{
@@ -929,7 +929,7 @@
 				"meta.decorator entity.name.function"
 			],
 			"settings": {
-				"foreground": "#93C7CC"
+				"foreground": "#cba9d3"
 			}
 		},
 		{
@@ -953,7 +953,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#93C7CC"
+				"foreground": "#cba9d3"
 			}
 		},
 		{
@@ -961,7 +961,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#93C7CC"
+				"foreground": "#cba9d3"
 			}
 		},
 		{
@@ -972,7 +972,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#93C7CC"
+				"foreground": "#cba9d3"
 			}
 		},
 		{
@@ -1040,7 +1040,7 @@
 		{
 			"scope": "constant.numeric.line-number.find-in-files - match",
 			"settings": {
-				"foreground": "#689ff2A0"
+				"foreground": "#ed76c5A0"
 			}
 		},
 		{
@@ -1086,7 +1086,7 @@
 			"name": "CSS Proparty",
 			"scope": "support.type.property-name",
 			"settings": {
-				"foreground": "#A7D0DD"
+				"foreground": "#f4bcd1"
 			}
 		},
 		{
@@ -1103,7 +1103,7 @@
 				"entity.other.attribute-name.class.scss"
 			],
 			"settings": {
-				"foreground": "#e2c35d"
+				"foreground": "#e2b766"
 			}
 		},
 		{
@@ -1124,7 +1124,7 @@
 			"name": "CSS Mediaquery",
 			"scope": "meta.at-rule.media",
 			"settings": {
-				"foreground": "#93C7CC"
+				"foreground": "#cba9d3"
 			}
 		}
 	],
@@ -1339,5 +1339,5 @@
 		"terminal.ansiWhite": "#d4d4d4",
 		"terminal.ansiBrightWhite": "#d4d4d4"
 	},
-	"name": "Strawberry Theme"
+	"name": "Raspberry Theme"
 }

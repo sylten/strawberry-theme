@@ -16,6 +16,16 @@
                 "label": "Strawberry Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/strawberry-theme.json"
+            },
+            {
+                "label": "Blueberry Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blueberry-theme.json"
+            },
+            {
+                "label": "Raspberry Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/raspberry-theme.json"
             }
         ]
     }

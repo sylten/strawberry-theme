@@ -2,19 +2,19 @@
 	"tokenColors": [
 		{
 			"name": "mon_color",
-			"scope": "mcol_e8bc84FF",
+			"scope": "mcol_f4af73FF",
 			"settings": {
-				"background": "#e8bc84FF",
+				"background": "#f4af73FF",
 				"foreground": "#8A7F19FF",
 				"caret": "#8A7F19FF"
 			}
 		},
 		{
 			"name": "mon_text_color",
-			"scope": "mcol_text_e8bc84FF",
+			"scope": "mcol_text_f4af73FF",
 			"settings": {
 				"background": "#272823FF",
-				"foreground": "#e8bc84FF",
+				"foreground": "#f4af73FF",
 				"caret": "#8A7F19FF"
 			}
 		},
@@ -746,7 +746,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#e8bc84"
+				"foreground": "#f4af73"
 			}
 		},
 		{
@@ -800,7 +800,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#689ff2"
+				"foreground": "#84d3ed"
 			}
 		},
 		{
@@ -813,7 +813,7 @@
 				"variable.language.super.js"
 			],
 			"settings": {
-				"foreground": "#689ff2"
+				"foreground": "#84d3ed"
 			}
 		},
 		{
@@ -823,7 +823,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#689ff2"
+				"foreground": "#84d3ed"
 			}
 		},
 		{
@@ -841,7 +841,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ad97d9"
+				"foreground": "#d86cb4"
 			}
 		},
 		{
@@ -854,7 +854,7 @@
 				"support.type.primitive"
 			],
 			"settings": {
-				"foreground": "#ed4f6f"
+				"foreground": "#689ff2"
 			}
 		},
 		{
@@ -862,14 +862,14 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ed4f6f"
+				"foreground": "#689ff2"
 			}
 		},
 		{
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#ed4f6f"
+				"foreground": "#689ff2"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"scope": "entity.name.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a4dbcc"
+				"foreground": "#bbbced"
 			}
 		},
 		{
@@ -885,7 +885,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a4dbcc"
+				"foreground": "#bbbced"
 			}
 		},
 		{
@@ -893,7 +893,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#a4dbcc"
+				"foreground": "#bbbced"
 			}
 		},
 		{
@@ -904,7 +904,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a4dbcc"
+				"foreground": "#bbbced"
 			}
 		},
 		{
@@ -929,7 +929,7 @@
 				"meta.decorator entity.name.function"
 			],
 			"settings": {
-				"foreground": "#93C7CC"
+				"foreground": "#93b5cc"
 			}
 		},
 		{
@@ -953,7 +953,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#93C7CC"
+				"foreground": "#93b5cc"
 			}
 		},
 		{
@@ -961,7 +961,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#93C7CC"
+				"foreground": "#93b5cc"
 			}
 		},
 		{
@@ -972,7 +972,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#93C7CC"
+				"foreground": "#93b5cc"
 			}
 		},
 		{
@@ -1003,7 +1003,7 @@
 			"name": "JSON String",
 			"scope": "meta.structure.dictionary.json string.quoted.double.json",
 			"settings": {
-				"foreground": "#e8bc84"
+				"foreground": "#f4af73"
 			}
 		},
 		{
@@ -1034,19 +1034,19 @@
 			"name": "diff.changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#e8bc84"
+				"foreground": "#f4af73"
 			}
 		},
 		{
 			"scope": "constant.numeric.line-number.find-in-files - match",
 			"settings": {
-				"foreground": "#689ff2A0"
+				"foreground": "#84d3edA0"
 			}
 		},
 		{
 			"scope": "entity.name.filename.find-in-files",
 			"settings": {
-				"foreground": "#e8bc84"
+				"foreground": "#f4af73"
 			}
 		},
 		{
@@ -1124,7 +1124,7 @@
 			"name": "CSS Mediaquery",
 			"scope": "meta.at-rule.media",
 			"settings": {
-				"foreground": "#93C7CC"
+				"foreground": "#93b5cc"
 			}
 		}
 	],
@@ -1339,5 +1339,5 @@
 		"terminal.ansiWhite": "#d4d4d4",
 		"terminal.ansiBrightWhite": "#d4d4d4"
 	},
-	"name": "Strawberry Theme"
+	"name": "Blueberry Theme"
 }
