@@ -1,6 +1,6 @@
 # README
 
-A few themes originally inspired by Monokai and later by the colors of berries.
+A few themes inspired by Monokai the colors of berries.
 
 ## Strawberry theme
 Quite like Monokai but easier on the eyes.
