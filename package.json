@@ -1,6 +1,6 @@
 {
-    "name": "monokai-strawberry-theme",
-    "displayName": "Monokai-Strawberry Theme",
+    "name": "strawberry-theme",
+    "displayName": "Strawberry Theme",
     "description": "A personal Monokai-inspired theme designed with TypeScript in mind.",
     "version": "1.0.1",
     "publisher": "Jonas Siltamäki Håkansson",
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Monokai-Strawberry Theme",
+                "label": "Strawberry Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/monokai-strawberry-theme.json"
+                "path": "./themes/strawberry-theme.json"
             }
         ]
     }
